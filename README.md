@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @turbosnute
+- 💞️ I’m looking to collaborate on stuff around Powershell, Docker, InfluxDB and PHP.
+- 📫 on@ntnu.no
